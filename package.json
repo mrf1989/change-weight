@@ -1,0 +1,32 @@
+{
+  "name": "change-weight.js",
+  "version": "0.1.0",
+  "description": "Calculate the weight in kilograms or pounds.",
+  "main": "dist/src/change-weight.js",
+  "scripts": {
+    "build": "babel src/change-weight.js -d dist",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrf1989/peso.js.git"
+  },
+  "keywords": [
+    "weight",
+    "calculator",
+    "kilograms",
+    "pounds"
+  ],
+  "author": "Mario Ruano <mr@marioruano.com> (https://marioruano.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrf1989/peso.js/issues"
+  },
+  "homepage": "https://github.com/mrf1989/peso.js#readme",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.5.1",
+    "chai": "^3.5.0",
+    "mocha": "^3.4.1"
+  }
+}
