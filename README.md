@@ -1,6 +1,6 @@
 # change-weight
 
-With **change-weight** you can calculate the equivalent weight in pounds or kilograms using a simple execution of a Javascript function.
+With (**change-weight**)[https://www.npmjs.com/package/change-weight.js] you can calculate the equivalent weight in pounds or kilograms using a simple execution of a Javascript function.
 
 ## Installation
 
